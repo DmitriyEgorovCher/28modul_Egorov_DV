@@ -1,0 +1,31 @@
+class Settings:
+    chrome_driver = "C:/chromedriver_win32/chromedriver.exe"
+    valid_email = "dimka1302@rambler.ru"
+    valid_password = "Zxcvb123"
+    valid_telephon = "+79210553563"
+    invalid_email = 'dimka130212344@rambler.ru'
+    invalid_password = 'Zxcvb123456'
+    empty_email = ''
+    empty_password = ''
+    menu_type_auth = ['Телефон', 'Почта', 'Логин', 'Лицевой счёт']
+    placeholder_name = ['Мобильный телефон', 'Электронная почта', 'Логин', 'Лицевой счёт']
+    first_name = 'Иван'
+    last_name = 'Иванов'
+    first_name_short = 'И'
+    last_name_short = 'А'
+    empty = ''
+    pass1 = 'Abc'
+    pass2 = 'asdfgh123'
+    url_id_vk = 'id.vk.com'
+    url_id_ok = 'connect.ok.ru'
+    url_id_ma = 'connect.mail.ru'
+    url_id_ya = 'passport.yandex.ru'
+    url_reg = '/auth/realms/b2c/login-actions/registration'
+    valid_reg_mail = 'dimka-1302@yandex.ru'
+    valid_reg_pass = 'Asdfgh123!'
+    incor_reg_mail = 'dimka1302yandex.ru'
+    russian_string = 'В'
+    latin_string = 'qwerty'
+    chinese_chars = '形声/形聲字象形字'
+    special_chars = '!@#$%^&*()_+=/{}'
+    numbers = 123
